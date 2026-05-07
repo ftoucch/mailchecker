@@ -1,3 +1,4 @@
+# encoding: utf-8
 # Run tests from the repository root directory:
 # $ bundle install && bundle exec ruby test/platform.ruby.test.rb
 require 'minitest/autorun'
